@@ -5,8 +5,11 @@ In this project, we will explore the world of bioinformatics by using Markov mod
 ## Installation
 
 import numpy as np
+
 import pandas as pd 
+
 import matplotlib.pyplot as plt
+
 import seaborn as sns
 
 ​
